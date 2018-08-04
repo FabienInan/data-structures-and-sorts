@@ -1,0 +1,7 @@
+{
+  "name": "structures&sorts",
+  "version": "0.0.1",
+  "dependencies": {
+    "string-hash": "1.1.3"
+  }
+}
